@@ -2,7 +2,7 @@
   "name": "searchfield",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://redMapCompany.github.io/kittenfriends/",
+  "homepage": "https://redmapcompany.github.io/kittenfriends/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
